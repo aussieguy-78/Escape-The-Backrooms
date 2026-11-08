@@ -202,4 +202,4 @@ This repository serves as the official landing page for Escape the Backrooms. Th
 **Get the most recent version of Escape the Backrooms today!**
 
 ---
-**Last updated:** 2026-11-08 07:07:04 UTC
+**Last updated:** 2026-11-08 14:57:01 UTC
